@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alinochka07
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Front-end (Javascript)
+- 💁 Learned languages - Python
 - 💞️ I’m looking to collaborate on everyone with whom I'm on the same page...
 - 📫 How to reach me: by email: alina011988@icloud.com
 
