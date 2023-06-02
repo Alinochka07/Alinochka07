@@ -10,7 +10,7 @@
   
 </div>
 
-<h3>Contact me through: </h3>
+<h3>📞 Contact me through: </h3>
 
 <div id="badges">
   <a href="mailto: alinabeyjp@gmail.com" target="_blank">
