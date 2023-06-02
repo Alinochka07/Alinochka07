@@ -28,6 +28,7 @@
 <div id="badges-tech">
       <img src="https://logosdownload.com/logo/javascript-logo-big.png" width="40" height="40" alt="js"/>
       <img src="https://www.vhv.rs/dpng/d/524-5245981_react-js-logo-png-transparent-png-download.png" width="40" height="40" alt="react" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="40" height="40" alt="redux" />
       <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="40" height="40" alt="html" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40" height="40" alt="css3"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png"width="40" height="40" alt="sass"/>
