@@ -20,4 +20,6 @@
     <li>🌱 I learn a lot to thrive and step up in everything</li>
     <li>👯 I’m looking to collaborate on people who share great ideas</li>
   </ul>
+  <br>
+  <p><Thank you for visiting my profile!</p>
 </div>
