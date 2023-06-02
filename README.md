@@ -24,7 +24,7 @@
   <p><Thank you for visiting my profile!</p>
 </div>
 <h3>💻 Knowledge in technologies:</h3>
-
+<br>
 <div id="badges-tech">
       <img src="https://logosdownload.com/logo/javascript-logo-big.png" width="40" height="40" alt="js"/>
       <img src="https://www.vhv.rs/dpng/d/524-5245981_react-js-logo-png-transparent-png-download.png" width="40" height="40" alt="react" />
@@ -42,5 +42,7 @@
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" width="40" height="40"/>
       <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" width="40" height="40" alt="mongo"/>
  </div>
+<br>
+<h3>💻 My stats:</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinochka07&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alinochka07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
