@@ -42,5 +42,5 @@
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" width="40" height="40"/>
       <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" width="40" height="40" alt="mongo"/>
  </div>
-<br></br>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinochka07&theme=radical)
