@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div>
+  <ul>
+    <li>👩🏻‍💻 I’m a passionate Frontend Developer</li>
+    <li>🌱 I learn a lot to thrive and step up in everything</li>
+    <li>👯 I’m looking to collaborate on people who share great ideas</li>
+  </ul>
+  <br>
+  
+</div>
+
 <h3>Contact me through: </h3>
 
 <div id="badges">
@@ -14,15 +24,7 @@
     </a>
  </div>
 <br>
-<div>
-  <ul>
-    <li>👩🏻‍💻 I’m a passionate Frontend Developer</li>
-    <li>🌱 I learn a lot to thrive and step up in everything</li>
-    <li>👯 I’m looking to collaborate on people who share great ideas</li>
-  </ul>
-  <br>
-  <p><Thank you for visiting my profile!</p>
-</div>
+
 <h3>💻 Knowledge in technologies:</h3>
 <br>
 <div id="badges-tech">
@@ -46,3 +48,5 @@
 <h3>💻 My stats:</h3>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alinochka07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<h3><Thank you for visiting my profile!</h3>
